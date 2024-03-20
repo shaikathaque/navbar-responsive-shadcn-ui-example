@@ -1,6 +1,6 @@
 # Responsive Navbar Menu with React & Shadcn/ui
 
-This project is intended to accompany an upcoming blog post on building a responsive navbar in React using [shadcn/ui](https://ui.shadcn.com/) components. 
+This project is intended to accompany a [blog post](https://dev.to/shaikathaque/responsive-navbar-in-react-using-shadcnui-and-tailwind-css-4jc9) on building a responsive navbar in React using [shadcn/ui](https://ui.shadcn.com/) components. 
 
 A deployed version is available at https://navbar-responsive-shadcn-ui-example.netlify.app.
 
